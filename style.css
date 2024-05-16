@@ -1,0 +1,16 @@
+#marvel-data {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#marvel-data .comic-wrap {
+	flex: 1 0 21%;
+	margin: 0 10px 5% 0;
+}
+
+#marvel-data .comic-wrap img {
+	width: 100%;
+	max-width: 285px;
+	height: auto;
+	padding-bottom: 10px;
+}
